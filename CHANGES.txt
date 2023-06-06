@@ -1,0 +1,5 @@
+Based on sean44104's PhoZL and rana-sylvatica's implementation of PhobVisions into sean44104's OlyU-S.
+
+Removed GCC throughholes
+Edited Trace pathing
+Integrated onboard support for smd usb C
